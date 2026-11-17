@@ -1,0 +1,10 @@
+# Local secrets and data – never commit
+config.local.php
+data/*.sqlite
+.env
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
